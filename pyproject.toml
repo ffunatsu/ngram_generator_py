@@ -1,0 +1,9 @@
+[project]
+name = "k-layout"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "kanjiconv>=0.2.5",
+]
